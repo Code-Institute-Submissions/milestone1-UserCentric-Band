@@ -29,8 +29,8 @@ Responsive - This website has been made responsive so it allows the user to acce
 
 * Feature 1 - **Video**
 On opening the website yyou are presented with a cinematic full screen video of the bands latest music video below the header section. This is to give a wow factor to the user as it shows the artistic side of the band as the video is very well shot. The video is muted by default and intrigues the user to find out more and interact with the rest of the website.
-* Feature 2 - **Music**
-The Music section is where the user can listen to a sample  of the band's latest music from spotify. It also contains links to the bands profiles on the major streaming platforms were you can listen to the full catalog of the bands music.
+* Feature 2 - **Latest & Music**
+The Latest & Music section contains details of the bands latest album and is also where the user can listen to a sample  of the band's latest music from spotify. It also contains links to the bands profiles on the major streaming platforms were you can listen to the full catalog of the bands music.
 * Feature 3 - **Tour**
 This section is made up of a table list of tour dates for the band, which include the date of the concert, the venue and the location. Their is also a button link to the ticket vendors website if tickets still available.
 * Feature 4 - **Merch**
