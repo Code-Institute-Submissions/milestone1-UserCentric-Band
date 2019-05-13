@@ -1,6 +1,6 @@
 <h1>Overhead, the Albatross band website.</h1>
 
-Overhead, the Albatross are a real band from Dublin, Ireland and the user can review their latest music, buy merchandise and tour tickts. It also allows the user to get in contact with the band providing their feedback via mail form. This site is simulating all the previous features and some of its content are pure fiction. All content has been researched, collected and edited from many different sites around the World Wide Web.
+The objective of this project is to create a frontend-only webpage for a band. Overhead, the Albatross are a real band from Dublin, Ireland and the user can review their latest music, buy merchandise and tour tickts. It also allows the user to get in contact with the band providing their feedback via mail form. This site is simulating all the previous features and some of its content are pure fiction. All content has been researched, collected and edited from many different sites around the World Wide Web.
 
 <h3>UX</h3>
 This website is for music fans in general but more targeted towards the bands own fanbase. Its a minilistic design with a clear easy on the eye colour scheme. Most of the visitors to this site are probably looking for:
@@ -11,26 +11,26 @@ New ways to keep in touch with their favourite music band.
 
 Listen to the band's songs easily and without paying for it.
 
-Wireframes mockups:
+<h5>Wireframes mockups</h5>
 
-Trying to approach the best way to navigate the site and its contents, I started first designing some drafts by hand and then worked with an online application.
+Trying to approach the best way to navigate the site and its contents, I started first designing some drafts by hand and then worked with an online application called Sketch.
+Links - 
 
 <h3>Features</h3>
-My project is broken up into 5 distinct pages - Home, Tour, Music and Subscribe & Merch. Across each of these pages they follow a frmat consisting of - A header containing a bands name and navigation options between pages.
+My project is broken up into 5 sections - Video, Music, Tour, Merch & Contact. A header is located at the top of the page containing the bands name and navigation options between sections.
+Each of the sections has content related to its title.
+The footer contains links to bring the visitor to the bands music streaming platforms and also their social media accounts. It also has a credit to the developer who built the website (on large devices).
 
-A main section the contents related to the page selected.
+**Existing Features** 
+Feature 1 - allows users X to achieve Y, by having them fill out Z ...
 
-A footer that shows the fan club address and links the visitor to the band via social media as also to the developer's resume (under construction).
+** Features Left to Implement**  
+Since this project required only to use html and css, some features lack full functionality. In the future, I would like to improve and add further features to this website, such as:
+* An improved merchandise store - I only implemented a sample of what the merchandise store could look like but this could be developed further to include more merchandise and to make purchases on site rather than linking to external stores.
 
-Existing Features Feature 1 - allows users X to achieve Y, by having them fill out Z ...
+* A News/social media feed Section - As social media is integral to a band's popularity and success, I would like to provide a section with news/pictures/tweets etc from the bands social media feeds.
 
-Features Left to Implement Since this project required only to use html and css, some features lack full functionality. In the future, I would like to improve and add further features to this website, such as:
-
-An improved merchandise store - I only implemented a sample of what the merchandise store could look like but this could be developed further to include more merchandise and to make purchases on site rather than linking to external stores.
-
-A News/social media feed Section - As social media is integral to a band's popularity and success, I would like to provide a section with news/pictures/tweets etc from the bands social media feeds.
-
-Better design adapted to specific devices: As a challenge to learn more about design, this site could always be improved. Typography types, sizes and colors as the same applied to backgrounds and other elements are qualities that display in different ways in different devices. Also the responsive design and the breakpoints in media queries are always changing with the new devices releases, so yes, this all could be a future implementation to keep in mind.
+* Better design adapted to specific devices: As a challenge to learn more about design, this site could always be improved. Typography types, sizes and colors as the same applied to backgrounds and other elements are qualities that display in different ways in different devices. Also the responsive design and the breakpoints in media queries are always changing with the new devices releases, so yes, this all could be a future implementation to keep in mind.
 
 <h3>Technologies</h3>
 Brief overview of the languages, frameworks, and other tools I've used on this project:
@@ -63,8 +63,9 @@ For this project, local deployment was not required. I've deployed the site usin
 
 <h3>Credits</h3>
 
-Content Colour gradient from https://uigradients.com/#Quepal
+Video content code - https://startbootstrap.com/snippets/video-header/
 
 The photos used in this site were obtained from the bands bandcamp profile https://overheadthealbatross.bandcamp.com/ and google images. All were labelled for reuse or noncommercial reuse.
 
-Acknowledgements I received inspiration for this project from other band websites such as https://www.wearepalace.com/ and https://thecoronas.net/. My mentor Kaushik Barodiya guided me towards simplifiy the site to meet the requirements.
+<h3>Acknowledgements</h3>
+I received inspiration for this project from other band websites such as https://www.wearepalace.com/ and https://thecoronas.net/. My mentor Kaushik Barodiya guided me towards simplifiy the site to meet the requirements.
