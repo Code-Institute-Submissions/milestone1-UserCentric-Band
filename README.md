@@ -15,7 +15,8 @@ Wireframes mockups:
 
 Trying to approach the best way to navigate the site and its contents, I started first designing some drafts by hand and then worked with an online application.
 
-Features. My project is broken up into 5 distinct pages - Home, Tour, Music and Subscribe & Merch. Across each of these pages they follow a frmat consisting of - A header containing a bands name and navigation options between pages.
+<h3>Features</h3>
+My project is broken up into 5 distinct pages - Home, Tour, Music and Subscribe & Merch. Across each of these pages they follow a frmat consisting of - A header containing a bands name and navigation options between pages.
 
 A main section the contents related to the page selected.
 
@@ -31,7 +32,8 @@ A News/social media feed Section - As social media is integral to a band's popul
 
 Better design adapted to specific devices: As a challenge to learn more about design, this site could always be improved. Typography types, sizes and colors as the same applied to backgrounds and other elements are qualities that display in different ways in different devices. Also the responsive design and the breakpoints in media queries are always changing with the new devices releases, so yes, this all could be a future implementation to keep in mind.
 
-TECHNOLOGIES Brief overview of the languages, frameworks, and other tools I've used on this project:
+<h3>Technologies</h3>
+Brief overview of the languages, frameworks, and other tools I've used on this project:
 
 HTML5 Markup language as the shell of the site.
 
@@ -47,7 +49,8 @@ Hover.css A collection of CSS3 powered hover effects to be applied to links.
 
 Cloud9 Code editor I used to write the HTML and CSS.
 
-Testing Coming for a QA testing background I thoroughly tested every aspect of this site. I wrote testing scenarios in a BBD format for others to test too as I think its good to get a second eye/opinion. I have creditials to https://www.browserstack.com/ which allows me to test on real devices/browsers which I dont have physical access to. Broken Line Checker (chrome extension) was used to ensure all links work correctly.
+<h3>Testing</h3>
+Coming for a QA testing background I thoroughly tested every aspect of this site. I wrote testing scenarios in a BBD format for others to test too as I think its good to get a second eye/opinion. I have creditials to https://www.browserstack.com/ which allows me to test on real devices/browsers which I dont have physical access to. Broken Line Checker (chrome extension) was used to ensure all links work correctly.
 
 Example BDD test scenario: Subscribe Page form function : Given I am on the "Subscribe" page Try to submit the empty form and verify that an error message about the required fields appears Try to submit the form with an invalid email address and verify that a relevant error message appears Try to submit the form with all inputs valid and verify that a success message appears.
 
@@ -55,9 +58,10 @@ In addition, you should mention in this section how your project looks and works
 
 Some problems faced: One issue that took longer to fix that I didnt antisapate was on shorter desktop screen sizes with the footer fixed to the bottom, the main section content would overlap. I then fixed after some online research using flexbox.
 
-DEPLOYMENT For this project, local deployment was not required. I've deployed the site using GitHub Pages, and is available here: https://shanenoonan.github.io/milestoneProject1/
+<h3>Deployment</h3>
+For this project, local deployment was not required. I've deployed the site using GitHub Pages, and is available here: https://shanenoonan.github.io/milestoneProject1/
 
-CREDITS
+<h3>Credits</h3>
 
 Content Colour gradient from https://uigradients.com/#Quepal
 
