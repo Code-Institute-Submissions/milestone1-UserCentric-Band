@@ -1,15 +1,15 @@
 <h1>Overhead, the Albatross band website.</h1>
 
-The objective of this project is to create a frontend-only webpage for a band. Overhead, the Albatross are a real band from Dublin, Ireland and the user can review their latest music, buy merchandise and tour tickts. It also allows the user to get in contact with the band providing their feedback via mail form. This site is simulating all the previous features and some of its content are pure fiction. All content has been researched, collected and edited from many different sites around the World Wide Web.
+The objective of this project was to create a frontend-only webpage for a band. Overhead, the Albatross are a real band from Dublin, Ireland and the user can see their latest music, video, view merchandise and buy tour tickets. It also allows the user to get in contact with the band providing their message via a mail form. It also contains links to the bands music streaming platforms and their social media accounts. This sites is based off a real band with real music and accounts but some content is pure fiction. All content has been researched, collected and edited from many different sites around the World Wide Web.
 
 <h3>UX</h3>
-This website is for music fans in general but more targeted towards the bands own fanbase. Its a minilistic design with a clear easy on the eye colour scheme. Most of the visitors to this site are probably looking for:
+This website is for music fans in general but more targeted towards the bands own fanbase. Its a minilistic design with a clear easy on the eye colour scheme. 
 
-Valuable information about the band that made them dance, sing and feel like no other during a single concert or an event.
-
-New ways to keep in touch with their favourite music band.
-
-Listen to the band's songs easily and without paying for it.
+Most of the visitors to this site are probably looking for:
+*Check out the latest music content from the band and where they can buy/stream it.
+*Find out information on their concert tour and where theyll be.
+*Buy and browse the bands available merchandise
+*New ways to keep in touch and connect with their favourite music band.
 
 <h5>Wireframes mockups</h5>
 
@@ -19,12 +19,17 @@ Links -
 <h3>Features</h3>
 My project is broken up into 5 sections - Video, Music, Tour, Merch & Contact. A header is located at the top of the page containing the bands name and navigation options between sections.
 Each of the sections has content related to its title.
-The footer contains links to bring the visitor to the bands music streaming platforms and also their social media accounts. It also has a credit to the developer who built the website (on large devices).
+The footer contains important links to bring the visitor to the bands music streaming platforms and also their social media accounts. It also has a credit to the developer who built the website (on large devices).
 
 **Existing Features** 
-Feature 1 - allows users X to achieve Y, by having them fill out Z ...
 
-** Features Left to Implement**  
+*Feature 1 - Video
+*Feature 2 - Music
+*Feature 3 - Tour
+*Feature 4 - Merch
+*Feature 5 - Contact
+
+**Features Left to Implement**  
 Since this project required only to use html and css, some features lack full functionality. In the future, I would like to improve and add further features to this website, such as:
 * An improved merchandise store - I only implemented a sample of what the merchandise store could look like but this could be developed further to include more merchandise and to make purchases on site rather than linking to external stores.
 
@@ -33,21 +38,16 @@ Since this project required only to use html and css, some features lack full fu
 * Better design adapted to specific devices: As a challenge to learn more about design, this site could always be improved. Typography types, sizes and colors as the same applied to backgrounds and other elements are qualities that display in different ways in different devices. Also the responsive design and the breakpoints in media queries are always changing with the new devices releases, so yes, this all could be a future implementation to keep in mind.
 
 <h3>Technologies</h3>
+
 Brief overview of the languages, frameworks, and other tools I've used on this project:
 
-HTML5 Markup language as the shell of the site.
+**HTML5**  Markup language as the shell of the site.
 
-CSS3 Cascading Style Sheets as the design of the site.
+**CSS3** Cascading Style Sheets as the design of the site.
 
-Bootstrap Bootstrap allows for a responsive layout across various platforms.
+**Bootstrap** Bootstrap allows for a responsive layout across various platforms.
 
-Font Awesome 5 Use of social media icons.
-
-Google Fonts Fonts library,free to use, some of which I used in my project.
-
-Hover.css A collection of CSS3 powered hover effects to be applied to links.
-
-Cloud9 Code editor I used to write the HTML and CSS.
+**Cloud9** Code editor I used to write the HTML and CSS.
 
 <h3>Testing</h3>
 Coming for a QA testing background I thoroughly tested every aspect of this site. I wrote testing scenarios in a BBD format for others to test too as I think its good to get a second eye/opinion. I have creditials to https://www.browserstack.com/ which allows me to test on real devices/browsers which I dont have physical access to. Broken Line Checker (chrome extension) was used to ensure all links work correctly.
@@ -59,11 +59,17 @@ In addition, you should mention in this section how your project looks and works
 Some problems faced: One issue that took longer to fix that I didnt antisapate was on shorter desktop screen sizes with the footer fixed to the bottom, the main section content would overlap. I then fixed after some online research using flexbox.
 
 <h3>Deployment</h3>
-For this project, local deployment was not required. I've deployed the site using GitHub Pages, and is available here: https://shanenoonan.github.io/milestoneProject1/
+For this project, local deployment was not required. I've deployed the site using GitHub Pages, and is available here: https://shanenoonan.github.io/milestone1-UserCentric-Band/
 
 <h3>Credits</h3>
 
 Video content code - https://startbootstrap.com/snippets/video-header/
+
+Font Awesome 5 Use of social media icons.
+
+Google Fonts Fonts library,free to use, some of which I used in my project.
+
+Hover.css A collection of CSS3 powered hover effects to be applied to links.
 
 The photos used in this site were obtained from the bands bandcamp profile https://overheadthealbatross.bandcamp.com/ and google images. All were labelled for reuse or noncommercial reuse.
 
