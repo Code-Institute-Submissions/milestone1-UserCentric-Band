@@ -24,13 +24,19 @@ The footer contains important links to bring the visitor to the bands music stre
 **Existing Features** 
 
 *Feature 1 - Video
+On opening the website yyou are presented with a cinematic full screen video of the bands latest music video below the header section. This is to give a wow factor to the user as it shows the artistic side of the band as the video is very well shot. The video is muted by default and intrigues the user to find out more and interact with the rest of the website.
 *Feature 2 - Music
+The Music section is where the user can listen to a sample  of the band's latest music from spotify. It also contains links to the bands profiles on the major streaming platforms were you can listen to the full catalog of the bands music.
 *Feature 3 - Tour
+This section is made up of a table list of tour dates for the band, which include the date of the concert, the venue and the location. Their is also a button link to the ticket vendors website if tickets still available.
 *Feature 4 - Merch
+This section contains a selection of merchandise, fans can purchase from an outsourced vender. If the user selects the button add to cart they will be brought to the corresponding items page on the third party site.
 *Feature 5 - Contact
+The Contact section is a contact form where the user can get in direct touch to the band for collaboration or any other queries.
 
 **Features Left to Implement**  
 Since this project required only to use html and css, some features lack full functionality. In the future, I would like to improve and add further features to this website, such as:
+
 * An improved merchandise store - I only implemented a sample of what the merchandise store could look like but this could be developed further to include more merchandise and to make purchases on site rather than linking to external stores.
 
 * A News/social media feed Section - As social media is integral to a band's popularity and success, I would like to provide a section with news/pictures/tweets etc from the bands social media feeds.
@@ -50,28 +56,30 @@ Brief overview of the languages, frameworks, and other tools I've used on this p
 **Cloud9** Code editor I used to write the HTML and CSS.
 
 <h3>Testing</h3>
-Coming for a QA testing background I thoroughly tested every aspect of this site. I wrote testing scenarios in a BBD format for others to test too as I think its good to get a second eye/opinion. I have creditials to https://www.browserstack.com/ which allows me to test on real devices/browsers which I dont have physical access to. Broken Line Checker (chrome extension) was used to ensure all links work correctly.
+I thoroughly tested the website myself across mustiple devices and screen sizes. I also created a [bug sheet](https://docs.google.com/spreadsheets/d/1t0RJYIa05fQPg7npV4wcCnZX6XM8K-HwhLFWNpmBS6I/edit?usp=sharing) and friend/family to test and write out anything they didnt like or which didnt work as I think its good to get a second eye/opinion. I have creditials to https://www.browserstack.com/ which allows me to test on real devices/browsers which I dont have physical access to. Broken Line Checker (chrome extension) was used to ensure all links work correctly.
 
-Example BDD test scenario: Subscribe Page form function : Given I am on the "Subscribe" page Try to submit the empty form and verify that an error message about the required fields appears Try to submit the form with an invalid email address and verify that a relevant error message appears Try to submit the form with all inputs valid and verify that a success message appears.
+I tested the website across multiple screen sizes and ensured it worked on the major/most popular browsers.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-Some problems faced: One issue that took longer to fix that I didnt antisapate was on shorter desktop screen sizes with the footer fixed to the bottom, the main section content would overlap. I then fixed after some online research using flexbox.
+**Some problems faced:**
+One issue that took longer to fix that I didnt antisapate was on shorter desktop screen sizes with the footer fixed to the bottom, the main section content would overlap. I then fixed after some online research using flexbox.
+I also had problems with the video and its status, O recieved various opinions on whether autoplay and sound should be automatic.
+After recieving some conflicting opinions on the original colour scheme I also decided to be less daring and reduced the pallette to a more reserved/accepted tone.
 
 <h3>Deployment</h3>
 For this project, local deployment was not required. I've deployed the site using GitHub Pages, and is available here: https://shanenoonan.github.io/milestone1-UserCentric-Band/
 
 <h3>Credits</h3>
 
-Video content code - https://startbootstrap.com/snippets/video-header/
+**Video content code** - https://startbootstrap.com/snippets/video-header/
 
-Font Awesome 5 Use of social media icons.
+**Font Awesome** Use of social media icons.
 
-Google Fonts Fonts library,free to use, some of which I used in my project.
+**Google Fonts** Fonts library,free to use, some of which I used in my project.
 
-Hover.css A collection of CSS3 powered hover effects to be applied to links.
+**Hover.css** A collection of CSS3 powered hover effects to be applied to links.
 
-The photos used in this site were obtained from the bands bandcamp profile https://overheadthealbatross.bandcamp.com/ and google images. All were labelled for reuse or noncommercial reuse.
+The **photos** used in this site were obtained from the bands bandcamp profile https://overheadthealbatross.bandcamp.com/ and google images. All were labelled for reuse or noncommercial reuse.
 
 <h3>Acknowledgements</h3>
-I received inspiration for this project from other band websites such as https://www.wearepalace.com/ and https://thecoronas.net/. My mentor Kaushik Barodiya guided me towards simplifiy the site to meet the requirements.
+I received inspiration for this project from other band websites such as https://www.wearepalace.com/ and https://thecoronas.net/. 
+I also used websites such as https://www.w3schools.com/ and https://css-tricks.com/ to improve/research code.
