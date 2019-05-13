@@ -13,13 +13,17 @@ Most of the visitors to this site are probably looking for:
 
 <h5>Wireframes mockups</h5>
 
-Trying to approach the best way to navigate the site and its contents, I started first designing some drafts by hand and then worked with an online application called Sketch.
+Trying to approach the best way to navigate the site and its contents, I started first designing some drafts by hand and then worked with an online application called Sketch. 
+My original idea was to have a minimal design with very little scroll required inspired by the website for the band palace - https://www.wearepalace.com/ but after recieving alot of negitive user feedback and facing many problems with navigation and adapting to screen sizes, I decided to redesign the entire website.
+The redesign kept most of the orignal content just reorganised into a one page webpage with scroll. I also introduced a full screen video to engage the user and give a feel for what the band produce. I also improved the navigation so its responsive to all screen sizes. 
 Links - 
 
 <h3>Features</h3>
 My project is broken up into 5 sections - Video, Music, Tour, Merch & Contact. A header is located at the top of the page containing the bands name and navigation options between sections.
 Each of the sections has content related to its title.
 The footer contains important links to bring the visitor to the bands music streaming platforms and also their social media accounts. It also has a credit to the developer who built the website (on large devices).
+
+Responsive - This website has been made responsive so it allows the user to access this page through their mobile, tablet or desktop and have a pleasing user experience each time.
 
 <h5>Existing Features</h5>
 
