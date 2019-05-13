@@ -6,10 +6,10 @@ The objective of this project was to create a frontend-only webpage for a band. 
 This website is for music fans in general but more targeted towards the bands own fanbase. Its a minilistic design with a clear easy on the eye colour scheme. 
 
 Most of the visitors to this site are probably looking for:
-*Check out the latest music content from the band and where they can buy/stream it.
-*Find out information on their concert tour and where theyll be.
-*Buy and browse the bands available merchandise
-*New ways to keep in touch and connect with their favourite music band.
+* Check out the latest music content from the band and where they can buy/stream it.
+* Find out information on their concert tour and where theyll be.
+* Buy and browse the bands available merchandise
+* New ways to keep in touch and connect with their favourite music band.
 
 <h5>Wireframes mockups</h5>
 
@@ -21,20 +21,20 @@ My project is broken up into 5 sections - Video, Music, Tour, Merch & Contact. A
 Each of the sections has content related to its title.
 The footer contains important links to bring the visitor to the bands music streaming platforms and also their social media accounts. It also has a credit to the developer who built the website (on large devices).
 
-**Existing Features** 
+<h5>Existing Features</h5>
 
-*Feature 1 - Video
+* Feature 1 - **Video**
 On opening the website yyou are presented with a cinematic full screen video of the bands latest music video below the header section. This is to give a wow factor to the user as it shows the artistic side of the band as the video is very well shot. The video is muted by default and intrigues the user to find out more and interact with the rest of the website.
-*Feature 2 - Music
+* Feature 2 - **Music**
 The Music section is where the user can listen to a sample  of the band's latest music from spotify. It also contains links to the bands profiles on the major streaming platforms were you can listen to the full catalog of the bands music.
-*Feature 3 - Tour
+* Feature 3 - **Tour**
 This section is made up of a table list of tour dates for the band, which include the date of the concert, the venue and the location. Their is also a button link to the ticket vendors website if tickets still available.
-*Feature 4 - Merch
+* Feature 4 - **Merch**
 This section contains a selection of merchandise, fans can purchase from an outsourced vender. If the user selects the button add to cart they will be brought to the corresponding items page on the third party site.
-*Feature 5 - Contact
+* Feature 5 - **Contact**
 The Contact section is a contact form where the user can get in direct touch to the band for collaboration or any other queries.
 
-**Features Left to Implement**  
+<h5>Features Left to Implement</h5>  
 Since this project required only to use html and css, some features lack full functionality. In the future, I would like to improve and add further features to this website, such as:
 
 * An improved merchandise store - I only implemented a sample of what the merchandise store could look like but this could be developed further to include more merchandise and to make purchases on site rather than linking to external stores.
