@@ -1,8 +1,9 @@
-Overhead, the Albatross band website.
+<h1>Overhead, the Albatross band website.</h1>
 
 Overhead, the Albatross are a real band from Dublin, Ireland and the user can review their latest music, buy merchandise and tour tickts. It also allows the user to get in contact with the band providing their feedback via mail form. This site is simulating all the previous features and some of its content are pure fiction. All content has been researched, collected and edited from many different sites around the World Wide Web.
 
-UX This website is for music fans in general but more targeted towards the bands own fanbase. Its a minilistic design with a clear easy on the eye colour scheme. Most of the visitors to this site are probably looking for:
+<h3>UX</h3>
+This website is for music fans in general but more targeted towards the bands own fanbase. Its a minilistic design with a clear easy on the eye colour scheme. Most of the visitors to this site are probably looking for:
 
 Valuable information about the band that made them dance, sing and feel like no other during a single concert or an event.
 
