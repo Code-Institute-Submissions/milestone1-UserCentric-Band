@@ -1,0 +1,422 @@
+    /* --------Fonts------- */
+
+    @import url('https://fonts.googleapis.com/css?family=Just+Another+Hand|Permanent+Marker|Raleway:400,500,600');
+
+    /* --------General------- */
+
+    h3,
+    h4 {
+      margin: 10px 0 30px 0;
+      font-size: 3rem;
+      font-family: 'Permanent Marker', cursive;
+      color: #111;
+    }
+
+    p {
+      text-align: center;
+      font-family: 'Raleway', sans-serif;
+      font-size: 1.2rem;
+      font-weight: 500;
+    }
+
+    .container {
+      padding: 80px 120px;
+    }
+
+    .inText {
+      color: #fafafa;
+      text-decoration: none;
+      font-family: 'Just Another Hand', cursive;
+      font-size: 1.6rem;
+    }
+
+    .inTextAlt:hover,
+    .inText:hover {
+      color: #50C9C3;
+      text-decoration: none
+    }
+
+    .inTextAlt {
+      color: #2d2d30;
+      text-decoration: none;
+      font-family: 'Just Another Hand', cursive;
+      font-size: 1.6rem;
+    }
+
+   
+    /* --------Background------- */
+
+    .bg-1 {
+      background: #2d2d30;
+    }
+
+    .bg-1 h3,.bg-1 p {
+      color: #fafafa;
+    }
+
+
+
+    /* --------Heading------- */
+
+    .navbar {
+      background-color: black;
+    }
+
+    .bandName {
+      font-family: 'Permanent Marker', cursive;
+      color: #fafafa;
+      padding: 10px 30px;
+      text-decoration: none;
+      font-size: 2rem;
+      transition: all 0.35s ease-in-out;
+      -moz-transition: all 0.35s ease-in-out;
+      -webkit-transition: all 0.35s ease-in-out;
+      -o-transition: all 0.35s ease-in-out;
+
+    }
+
+    .nav-item a {
+      font-family: 'Permanent Marker', cursive;
+      letter-spacing: 2px;
+      float: right;
+      color: #fafafa;
+      text-align: center;
+      padding: 10px 30px;
+      text-decoration: none;
+      font-size: 1.5rem;
+      transition: all 0.35s ease-in-out;
+      -moz-transition: all 0.35s ease-in-out;
+      -webkit-transition: all 0.35s ease-in-out;
+      -o-transition: all 0.35s ease-in-out;
+
+    }
+
+    .bandName:hover,
+    .nav-item a:hover {
+      color: #50C9C3;
+      text-decoration: none
+    }
+
+ /* --------Video------- */
+
+    section {
+      position: relative;
+      background-color: black;
+      height: 100vh;
+      min-height: 25rem;
+      width: 100%;
+      overflow: hidden;
+    }
+
+    section video {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      z-index: 0;
+      -ms-transform: translateX(-50%) translateY(-50%);
+      -moz-transform: translateX(-50%) translateY(-50%);
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);
+    }
+
+    
+    .centered {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #fafafa;
+      font-family: 'Just Another Hand', cursive;
+      font-size: 1.6rem;
+      text-align: center;
+    }
+
+    section .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background-color: black;
+      color: #fafafa;
+      opacity: 0.5;
+      z-index: 1;
+    }
+
+
+
+    /* --------Band------- */
+
+    img.albumCover {
+      width: 500px;
+      height: 500px;
+      -webkit-box-shadow: 10px 10px 22px 0px rgba(80,201,195,0.2);
+      -moz-box-shadow: 10px 10px 22px 0px rgba(80,201,195,0.2);
+      box-shadow: 10px 10px 22px 0px rgba(80,201,195,0.2);
+    }
+    
+     /* --------Music------- */
+     
+     h6 {
+           font-size: 2rem;
+           color: #fafafa;
+           font-family: 'Permanent Marker', cursive;
+     }
+     
+     .msocial-links {
+       padding-left: 0;
+     }
+     
+        .msocial-links li a i {
+      width: 50px;
+      height: 50px;
+      font-size: 50px;
+      text-align: center;
+      color: #fafafa;
+      transition: all 0.35s ease-in-out;
+      -moz-transition: all 0.35s ease-in-out;
+      -webkit-transition: all 0.35s ease-in-out;
+      -o-transition: all 0.35s ease-in-out;
+    }
+
+    .msocial-links li a i:hover {
+      color: #50C9C3;
+    }
+
+    /* --------Merch------- */
+
+    .card {
+      border: 2px solid #6a6a6a;
+      -webkit-box-shadow: 10px 10px 22px 0px rgba(80,201,195,0.2);
+      -moz-box-shadow: 10px 10px 22px 0px rgba(80,201,195,0.2);
+      box-shadow: 10px 10px 22px 0px rgba(80,201,195,0.2);
+    }
+
+    .product-grid .product-discount-label,
+    .product-grid .product-new-label {
+      color: #fff;
+      background-color: #ef5777;
+      font-size: 15px;
+      text-transform: uppercase;
+      padding: 2px 7px;
+      display: block;
+      position: absolute;
+      top: 10px;
+      left: 0
+    }
+
+    .card-body .title {
+      margin: 0 0 10px;
+      color: #50C9C3;
+      font-family: 'Raleway', sans-serif;
+      font-weight: 600;
+      font-size: 20px;
+      letter-spacing: .5px;
+    }
+
+    .card-body .price {
+      color: #6a6a6a;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: .6px;
+      margin-bottom: 8px;
+    }
+
+    .card-body .price span {
+      color: #a9e4e1;
+      font-size: 15px;
+      font-weight: 400;
+      text-decoration: line-through;
+      margin-left: 3px;
+      display: inline-block
+    }
+
+    .card-body .add-to-cart {
+      color: #50C9C3;
+      font-family: 'Raleway', sans-serif;
+      font-size: 15px;
+      font-weight: 600
+    }
+    
+    .card-body .add-to-cart:hover {
+      text-decoration: none;
+    }
+    
+
+    /* --------Tour------- */
+
+    .table {
+      margin-top: 20px;
+    }
+
+    .tablehead {
+      color: #fafafa;
+      font-size: 40px;
+      font-family: 'Permanent Marker', cursive;
+    }
+
+    .tablebody {
+      color: #fafafa;
+      font-size: 1.3rem;
+
+    }
+
+    .tickets {
+      color: #fafafa;
+      text-align: center;
+      padding-left: 10px;
+      padding-right: 10px;
+      border: 2px solid #fafafa;
+    }
+
+    .tickets:hover {
+      color: #50C9C3;
+      background-color: #fafafa;
+      text-decoration: none;
+    }
+    
+     /* --------Contact------- */
+     
+     
+    .form-control {
+    border: 2px solid #2d2d30;
+    
+}
+
+.btnSubmit {
+    border: 2px solid #2d2d30;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    color: #50C9C3;
+    background-color: #fafafa;
+}
+
+    /* --------Footer------- */
+
+    footer {
+      color: #fafafa;
+      background-color: #2d2d30;
+    }
+
+    .social-links li a i {
+      width: 32px;
+      height: 32px;
+      padding: 12px 0;
+      font-size: 30px;
+      line-height: 7px;
+      text-align: center;
+      color: #fafafa;
+      transition: all 0.35s ease-in-out;
+      -moz-transition: all 0.35s ease-in-out;
+      -webkit-transition: all 0.35s ease-in-out;
+      -o-transition: all 0.35s ease-in-out;
+    }
+
+    .social-links li a i:hover {
+      color: #50C9C3;
+    }
+
+    #footer-details {
+      padding-top: 50px;
+      padding-bottom: 20px;
+      text-align: center;
+      margin-right: 30px;
+      margin-left: 30px;
+    }
+
+    .generalf {
+      padding-bottom: 5px;
+      font-size: 3rem;
+      font-family: 'Permanent Marker', cursive;
+      color: #fafafa;
+    }
+
+    .footerP {
+      font-family: 'Just Another Hand', cursive;
+      font-size: 25px;
+    }
+
+
+    .form-control {
+      border-radius: 0;
+    }
+
+    .btnSubmit {
+      border: 2px solid #2d2d30;
+      cursor: pointer;
+      color: #2d2d30;
+      background-color: white;
+    }
+
+    .btnSubmit:hover, .btnSubmit:active {
+      border: 2px solid #50C9C3;
+      color: #50C9C3;
+      text-decoration: none;
+    }
+
+    textarea {
+      resize: none;
+    }
+    
+
+    @media only screen and (max-width: 568px) {
+      
+      .bandName {
+        font-size: 1.2rem;
+        padding: 0;
+      }
+    }
+
+    @media only screen and (max-width: 760px) {
+
+      .bandName {
+        font-size: 1.4rem;
+        float: right;
+        padding: 0;
+      }
+      
+      .centered {
+        font-size: 1.3rem;
+      }
+
+
+      /* Force table to not be like tables anymore */
+      table,
+      thead,
+      tbody,
+      th,
+      td,
+      tr {
+        display: block;
+
+      }
+
+      /* Hide table headers (but not display: none;, for accessibility) */
+      thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+      }
+
+      td {
+        /* Behave  like a "row" */
+        position: relative;
+        padding-left: 50%;
+      }
+
+      img.albumCover {
+        width: 100%;
+        height: 100%;
+      }
+
+      .container {
+        padding: 40px 60px;
+      }
+
+    }
+    
