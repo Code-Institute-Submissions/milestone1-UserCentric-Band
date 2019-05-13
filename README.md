@@ -25,7 +25,7 @@ The footer contains important links to bring the visitor to the bands music stre
 
 Responsive - This website has been made responsive so it allows the user to access this page through their mobile, tablet or desktop and have a pleasing user experience each time.
 
-<h5>Existing Features</h5>
+<h4>Existing Features</h4>
 
 * Feature 1 - **Video**
 On opening the website yyou are presented with a cinematic full screen video of the bands latest music video below the header section. This is to give a wow factor to the user as it shows the artistic side of the band as the video is very well shot. The video is muted by default and intrigues the user to find out more and interact with the rest of the website.
@@ -38,14 +38,14 @@ This section contains a selection of merchandise, fans can purchase from an outs
 * Feature 5 - **Contact**
 The Contact section is a contact form where the user can get in direct touch to the band for collaboration or any other queries.
 
-<h5>Features Left to Implement</h5>  
+<h4>Features Left to Implement</h4>  
 Since this project required only to use html and css, some features lack full functionality. In the future, I would like to improve and add further features to this website, such as:
 
-* An improved merchandise store - I only implemented a sample of what the merchandise store could look like but this could be developed further to include more merchandise and to make purchases on site rather than linking to external stores.
+* An **improved merchandise store** - I only implemented a sample of what the merchandise store could look like but this could be developed further to include more merchandise and to make purchases on site rather than linking to external stores.
 
-* A News/social media feed Section - As social media is integral to a band's popularity and success, I would like to provide a section with news/pictures/tweets etc from the bands social media feeds.
+* A **News/social media feed section** - As social media is integral to a band's popularity and success, I would like to provide a section with news/pictures/tweets etc from the bands social media feeds.
 
-* Better design adapted to specific devices: As a challenge to learn more about design, this site could always be improved. Typography types, sizes and colors as the same applied to backgrounds and other elements are qualities that display in different ways in different devices. Also the responsive design and the breakpoints in media queries are always changing with the new devices releases, so yes, this all could be a future implementation to keep in mind.
+* **Improved design** adapted to specific devices: As a challenge to learn more about design, this site could always be improved. Typography types, sizes and colors as the same applied to backgrounds and other elements are qualities that display in different ways in different devices. Also the responsive design and the breakpoints in media queries are always changing with the new devices releases, so yes, this all could be a future implementation to keep in mind.
 
 <h3>Technologies</h3>
 
