@@ -16,7 +16,7 @@ Most of the visitors to this site are probably looking for:
 Trying to approach the best way to navigate the site and its contents, I started first designing some drafts by hand and then worked with an online application called Sketch. 
 My original idea was to have a minimal design with very little scroll required inspired by the website for the band palace - https://www.wearepalace.com/ but after recieving alot of negitive user feedback and facing many problems with navigation and adapting to screen sizes, I decided to redesign the entire website.
 The redesign kept most of the orignal content just reorganised into a one page webpage with scroll. I also introduced a full screen video to engage the user and give a feel for what the band produce. I also improved the navigation so its responsive to all screen sizes. 
-Links - 
+Link - https://github.com/ShaneNoonan/milestone1-UserCentric-Band/blob/master/assets/BandMockups.pdf
 
 <h3>Features</h3>
 My project is broken up into 5 sections - Video, Music, Tour, Merch & Contact. A header is located at the top of the page containing the bands name and navigation options between sections.
